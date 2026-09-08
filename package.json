@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "ej1": "node singleton.ts",
-    "ej2": "node ej2.ts",
+    "ej1": "node tp3/soluciones/srp-solucion.ts",
+    "ej2": "node tp2/factory_method.ts",
     "ej3": "node ej3.ts",
     "ej4": "node ej4.ts",
     "ej5": "node ej5.ts"
