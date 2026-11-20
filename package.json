@@ -7,7 +7,12 @@
     "ej2": "node tp2/factory_method.ts",
     "ej3": "node ej3.ts",
     "ej4": "node ej4.ts",
-    "ej5": "node ej5.ts"
+    "ej5": "node ej5.ts",
+    "01-srp": "node tp3/srp.ts",
+    "02-ocp": "node tp3/ocp.ts",
+    "03-lsp": "node tp3/lsp.ts",
+    "04-isp": "node tp3/isp.ts",
+    "05-dip": "node tp3/dip.ts"
   },
   "type": "module",
   "keywords": [],
